@@ -1,0 +1,1 @@
+This repository demonstrates a common but often overlooked issue in VBScript:  the GetObject function and its error handling.  The `bug.vbs` file shows a naive implementation, while `bugSolution.vbs` provides a more robust solution that gracefully handles cases where the requested object is not available.  This is important for creating stable and reliable VBScript applications.
